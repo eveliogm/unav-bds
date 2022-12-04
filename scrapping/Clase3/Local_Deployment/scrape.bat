@@ -1,0 +1,1 @@
+call "C:\\Users\\pablo\\Anaconda3\\Scripts\\activate.bat" & cd "C:\\Users\\pablo\\OneDrive\\UNAV\\TRD\\Local_Deployment\\" & python scrape.py
